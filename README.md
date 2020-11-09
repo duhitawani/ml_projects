@@ -1,1 +1,1 @@
-# ml_projects
+# machine learning series
